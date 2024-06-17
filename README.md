@@ -63,3 +63,8 @@ babel --> Webpack --> bundle.js
 
 babel: tool to turn jsx into normal js code
 webpack: tool to merge all project files into a single file
+||||||| f82694e
+=======
+test
+
+> > > > > > > cea517a324fce039e0648cae678c13b1a6fdaa50
